@@ -530,7 +530,7 @@ MeshWifiInterfaceMac::Synchronize(int nodeID, uint64_t timeStamp)
 }
 /*
 int
-MeshWifiInterfaceMac::ConvAddressToInt(Mac48Address address)//---------------------------TEST---------------------
+MeshWifiInterfaceMac::ConvAddressToInt(Mac48Address address)
 {//Not using in the simulator, method was used earlier.
 //Using the GetAddress method to get nodeID
 	//cout << address << endl;
@@ -547,7 +547,7 @@ MeshWifiInterfaceMac::ConvAddressToInt(Mac48Address address)//------------------
 	nodeID = atoi(str.c_str())-1;//string to int. -1 because NodeID 1 = getNode(0)
 	return nodeID;
 
-}//---------------------------TEST---------------------
+}
 */
 //method which returns true if network is synchronized
 bool
