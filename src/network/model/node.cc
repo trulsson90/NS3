@@ -17,6 +17,8 @@
  *
  * Authors: George F. Riley<riley@ece.gatech.edu>
  *          Mathieu Lacage <mathieu.lacage@sophia.inria.fr>
+ *
+ * Modified by: Linus and Tequamnesh
  */
 #include "node.h"
 #include "node-list.h"

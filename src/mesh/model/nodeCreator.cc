@@ -2,7 +2,7 @@
  * nodeCreator.cc
  *
  *  Created on: Oct 29, 2015
- *      Author: linus
+ *      Author: linus and Tequamnesh
  */
 
 

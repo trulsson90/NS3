@@ -16,6 +16,7 @@
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
  * Author: Pavel Boyko <boyko@iitp.ru>
+ * modified by Linus and Tequamnesh
  */
 
 #include "ns3/mesh-wifi-beacon.h"

@@ -2,7 +2,7 @@
  * node-clock.cc
  *
  *  Created on: Apr 29, 2015
- *      Author: linus
+ *      Author: linus and Tequamnesh
  */
 
 

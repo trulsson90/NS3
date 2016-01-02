@@ -17,6 +17,7 @@
  *
  * Authors: Kirill Andreev <andreev@iitp.ru>
  *          Pavel Boyko <boyko@iitp.ru>
+ * Modified by: Linus and Tequamnesh
  */
 
 #include "ns3/mesh-wifi-interface-mac.h"

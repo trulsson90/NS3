@@ -16,6 +16,7 @@
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
  * Author: Mathieu Lacage <mathieu.lacage@sophia.inria.fr>
+ * Modified by: Linus and Tequamnesh
  */
 #include "regular-wifi-mac.h"
 #include "ns3/log.h"
@@ -425,7 +426,7 @@ RegularWifiMac::GetAddress (void) const
 }
 
 uint64_t
-RegularWifiMac::GetNodeClock()
+RegularWifiMac::GetNodeClock() //Get Node clock
 {
 
 	m_node = node.GetObject<ns3::Node>();

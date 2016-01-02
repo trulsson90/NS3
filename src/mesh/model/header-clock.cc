@@ -2,7 +2,7 @@
  * header-clock.cc
  *
  *  Created on: May 20, 2015
- *      Author: linus
+ *      Author: linus and Tequamnesh
  */
 /* -*- Mode:C++; c-file-style:"gnu"; indent-tabs-mode:nil; -*- */
 #include "header-clock.h"
